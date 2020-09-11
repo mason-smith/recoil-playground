@@ -1,0 +1,11 @@
+.inputs {
+  margin-top: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.weatherDisplay {
+  margin-top: 1rem;
+}
